@@ -28,6 +28,10 @@ Here are the steps which i have performed in this notebook
            G) CatBoost
        5.4 Blending
        
+  ### Test Prediction
+  https://github.com/vishalbansal-1650/Kaggle-House-Price-Prediction/blob/main/submission/submission.csv
+  
+       
 ## Future Work:
 A.) Will add weight optimization function for blending
 <Br>B.) Use Feature Selection and train model on those selected features</Br>
