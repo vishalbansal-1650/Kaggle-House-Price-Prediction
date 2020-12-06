@@ -30,7 +30,7 @@ Here are the steps which i have performed in this notebook
        
 ## Future Work:
 A.) Will add weight optimization function for blending
-B.) Use Feature Selection and train model on those selected features
+<Br>B.) Use Feature Selection and train model on those selected features</Br>
 
 
       
